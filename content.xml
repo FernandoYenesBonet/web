@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260322122504OJN4N2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260322122504S0A2I2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Del foro al periódico: latinismos en acción</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Fernando Yenes Bonet</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje para el estudio de los latinismos en la prensa digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774178698726</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn1o6ssu-fgadjdcxu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Del foro al periódico: latinismos en acción. Descripción de la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Del foro al periódico: latinismos en acción. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hablemos en latín...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Del foro al periódico: latinismos en acción. Descripción de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6ssu-fgadjdcxu</odePageId>
+      <odeBlockId>block-1774004550925-waor9uiek</odeBlockId>
+      <blockName>Del foro al periódico: latinismos en acción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6ssu-fgadjdcxu</odePageId>
+          <odeBlockId>block-1774004550925-waor9uiek</odeBlockId>
+          <odeIdeviceId>idevice-1774004550920-l0sz9ykm8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> Esta situación de aprendizaje va dirigida al alumnado de la asignatura de Latín de 1º de Bachillerato.</p>
+<p style="text-align: justify;"> La organización espacial del aula se plantea desde los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de crear un entorno accesible, inclusivo y flexible que favorezca la participación de todo el alumnado. En este sentido, el espacio se estructura de manera versátil, permitiendo diferentes agrupamientos (trabajo individual, en parejas y en grupos cooperativos), adaptándose a las distintas situaciones de aprendizaje. Asimismo, se contemplan diversas zonas o rincones específicos, como el espacio de trabajo cooperativo, el rincón de lectura y el área de recursos digitales. Se garantiza la accesibilidad física y cognitiva mediante una disposición clara de los materiales, que estarán al alcance del alumnado, así como una señalización adecuada del aula. Del mismo modo, se cuida la organización de los estímulos visuales y auditivos para evitar la sobrecarga sensorial. Todo esto contribuye a fomentar la autonomía del alumnado, facilitando la toma de decisiones y el acceso equitativo a los recursos, en coherencia con los principios de implicación, representación y acción y expresión propios del DUA.</p>
+<p style="text-align: justify;"> Se dedicarán un total de cinco sesiones completas.</p>
+<p style="text-align: justify;"> Mediante la realización de las tareas propuestas el alumnado deberá desarrollar dos productos:</p>
+<p style="text-align: justify;">a) una infografía que incluya algún elemento interactivo y en la que aparezcan recogidos titulares de la prensa digital en los que se haga uso de latinismos, junto con la traducción y una breve explicación de su uso.</p>
+<p style="text-align: justify;">b) creación de un podcast en el que el alumnado deberá incorporar latinismos de uso frecuente dentro de un discurso (debate, conversación, boletín informativo, narración, entrevista, etc.). </p>
+<p style="text-align: justify;"> Las herramientas utilizadas serán Canva, Audacity, herramienta de recortes de Windows, Teams, OneDrive, grabadora de dispositivo móvil, banco de recursos <a href="http://www.pixabay.com">www.pixabay.com</a>, canales de Youtube y buscadores de Internet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774004550920-l0sz9ykm8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> Esta situación de aprendizaje va dirigida al alumnado de la asignatura de Latín de 1º de Bachillerato.</p>\n<p style=\"text-align: justify;\"> La organización espacial del aula se plantea desde los principios del Diseño Universal para el Aprendizaje (DUA), con el objetivo de crear un entorno accesible, inclusivo y flexible que favorezca la participación de todo el alumnado. En este sentido, el espacio se estructura de manera versátil, permitiendo diferentes agrupamientos (trabajo individual, en parejas y en grupos cooperativos), adaptándose a las distintas situaciones de aprendizaje. Asimismo, se contemplan diversas zonas o rincones específicos, como el espacio de trabajo cooperativo, el rincón de lectura y el área de recursos digitales. Se garantiza la accesibilidad física y cognitiva mediante una disposición clara de los materiales, que estarán al alcance del alumnado, así como una señalización adecuada del aula. Del mismo modo, se cuida la organización de los estímulos visuales y auditivos para evitar la sobrecarga sensorial. Todo esto contribuye a fomentar la autonomía del alumnado, facilitando la toma de decisiones y el acceso equitativo a los recursos, en coherencia con los principios de implicación, representación y acción y expresión propios del DUA.</p>\n<p style=\"text-align: justify;\"> Se dedicarán un total de cinco sesiones completas.</p>\n<p style=\"text-align: justify;\"> Mediante la realización de las tareas propuestas el alumnado deberá desarrollar dos productos:</p>\n<p style=\"text-align: justify;\">a) una infografía que incluya algún elemento interactivo y en la que aparezcan recogidos titulares de la prensa digital en los que se haga uso de latinismos, junto con la traducción y una breve explicación de su uso.</p>\n<p style=\"text-align: justify;\">b) creación de un podcast en el que el alumnado deberá incorporar latinismos de uso frecuente dentro de un discurso (debate, conversación, boletín informativo, narración, entrevista, etc.). </p>\n<p style=\"text-align: justify;\"> Las herramientas utilizadas serán Canva, Audacity, herramienta de recortes de Windows, Teams, OneDrive, grabadora de dispositivo móvil, banco de recursos <a href=\"http://www.pixabay.com\">www.pixabay.com</a>, canales de Youtube y buscadores de Internet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1o6t7w-q2u8n0pps</odePageId>
+  <odeParentPageId>page-mn1o6ssu-fgadjdcxu</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6t7w-q2u8n0pps</odePageId>
+      <odeBlockId>block-1774005642477-mou5x5gkd</odeBlockId>
+      <blockName>1. Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6t7w-q2u8n0pps</odePageId>
+          <odeBlockId>block-1774005642477-mou5x5gkd</odeBlockId>
+          <odeIdeviceId>idevice-1774005642473-llcisehb0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> La intención educativa de esta situación de aprendizaje es que el alumnado tome conciencia de la pervivencia del latín en la lengua y en los medios de comunicación actuales, desarrollando su competencia plurilingüe y su capacidad de análisis crítico mediante la identificación, interpretación y valoración del uso de latinismos en la prensa digital, en un contexto real y significativo.</p>
+<p style="text-align: justify;"> Por medio de esta situación de aprendizaje el alumnado comprenderá la herencia cultural y lingüística del latín en la sociedad actual -analizar latinismos en prensa conecta pasado y presente-, reflexionará sobre el léxico, los formantes y la relación entre lenguas -los latinismos permiten ver cómo funciona el lenguaje en contextos reales-, hará uso de contextos reales y significativos -la prensa digital es un contexto auténtico y actual-, desarrollará el pensamiento crítico -analizar por qué se usan los latinismos fomenta esa mirada crítica-, y además, el uso de la prensa digital implica búsqueda de información, selección de fuentes y análisis del discurso.</p>
+<p style="text-align: justify;"><strong>Relación con los ODS</strong> <br /></p>
+<p style="text-align: justify;"> -Objetivo de Desarrollo Sostenible 4<br /> Al promover un aprendizaje significativo, contextualizado y competencial, basado en el análisis de textos reales procedentes de la prensa digital, favoreciendo el desarrollo de la competencia lingüística, plurilingüe y digital.<br /> -Objetivo de Desarrollo Sostenible 16<br /> Al contribuir a la formación de una ciudadanía crítica y responsable, capaz de interpretar el discurso mediático, identificar intencionalidades comunicativas y participar de forma consciente en la sociedad democrática.<br /> -Objetivo de Desarrollo Sostenible 10<br /> Al facilitar el acceso comprensivo al léxico culto y especializado presente en los medios de comunicación, reduciendo barreras lingüísticas en la comprensión de la información.</p>
+<p style="text-align: justify;"><strong>Relación con los Retos del siglo XXI</strong></p>
+<p style="text-align: justify;"> La situación de aprendizaje contribuye al desarrollo de los principales retos educativos contemporáneos:</p>
+<p style="text-align: justify;"> -Pensamiento crítico y alfabetización mediática: análisis del uso de latinismos en la prensa, interpretación de su intencionalidad y reflexión sobre el lenguaje como herramienta de construcción de la realidad.<br /> -Competencia digital: búsqueda, selección y tratamiento de información en entornos digitales, así como uso responsable de fuentes periodísticas.<br /> -Comunicación eficaz y consciente: comprensión del valor del léxico de origen latino en registros formales y su función en el discurso periodístico.<br /> -Conciencia cultural y ciudadanía europea: reconocimiento del latín como base del patrimonio lingüístico y cultural común en Europa.<br /> -Ciudadanía democrática activa: desarrollo de una actitud crítica ante los medios de comunicación y su papel en la sociedad.</p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774005642473-llcisehb0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> La intención educativa de esta situación de aprendizaje es que el alumnado tome conciencia de la pervivencia del latín en la lengua y en los medios de comunicación actuales, desarrollando su competencia plurilingüe y su capacidad de análisis crítico mediante la identificación, interpretación y valoración del uso de latinismos en la prensa digital, en un contexto real y significativo.</p>\n<p style=\"text-align: justify;\"> Por medio de esta situación de aprendizaje el alumnado comprenderá la herencia cultural y lingüística del latín en la sociedad actual -analizar latinismos en prensa conecta pasado y presente-, reflexionará sobre el léxico, los formantes y la relación entre lenguas -los latinismos permiten ver cómo funciona el lenguaje en contextos reales-, hará uso de contextos reales y significativos -la prensa digital es un contexto auténtico y actual-, desarrollará el pensamiento crítico -analizar por qué se usan los latinismos fomenta esa mirada crítica-, y además, el uso de la prensa digital implica búsqueda de información, selección de fuentes y análisis del discurso.</p>\n<p style=\"text-align: justify;\"><strong>Relación con los ODS</strong> <br /></p>\n<p style=\"text-align: justify;\"> -Objetivo de Desarrollo Sostenible 4<br /> Al promover un aprendizaje significativo, contextualizado y competencial, basado en el análisis de textos reales procedentes de la prensa digital, favoreciendo el desarrollo de la competencia lingüística, plurilingüe y digital.<br /> -Objetivo de Desarrollo Sostenible 16<br /> Al contribuir a la formación de una ciudadanía crítica y responsable, capaz de interpretar el discurso mediático, identificar intencionalidades comunicativas y participar de forma consciente en la sociedad democrática.<br /> -Objetivo de Desarrollo Sostenible 10<br /> Al facilitar el acceso comprensivo al léxico culto y especializado presente en los medios de comunicación, reduciendo barreras lingüísticas en la comprensión de la información.</p>\n<p style=\"text-align: justify;\"><strong>Relación con los Retos del siglo XXI</strong></p>\n<p style=\"text-align: justify;\"> La situación de aprendizaje contribuye al desarrollo de los principales retos educativos contemporáneos:</p>\n<p style=\"text-align: justify;\"> -Pensamiento crítico y alfabetización mediática: análisis del uso de latinismos en la prensa, interpretación de su intencionalidad y reflexión sobre el lenguaje como herramienta de construcción de la realidad.<br /> -Competencia digital: búsqueda, selección y tratamiento de información en entornos digitales, así como uso responsable de fuentes periodísticas.<br /> -Comunicación eficaz y consciente: comprensión del valor del léxico de origen latino en registros formales y su función en el discurso periodístico.<br /> -Conciencia cultural y ciudadanía europea: reconocimiento del latín como base del patrimonio lingüístico y cultural común en Europa.<br /> -Ciudadanía democrática activa: desarrollo de una actitud crítica ante los medios de comunicación y su papel en la sociedad.</p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1o6t7x-n69nayco2</odePageId>
+  <odeParentPageId>page-mn1o6ssu-fgadjdcxu</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6t7x-n69nayco2</odePageId>
+      <odeBlockId>block-1774008172336-ol4woyy80</odeBlockId>
+      <blockName>2. Elementos curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6t7x-n69nayco2</odePageId>
+          <odeBlockId>block-1774008172336-ol4woyy80</odeBlockId>
+          <odeIdeviceId>idevice-1774008172331-75yff7e6k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong> Competencias clave (descriptores operativos/perfil de salida):</strong></p>
+<p style="text-align: justify;"> CCL1, CCL2, CP2, STEM1, STEM2</p>
+<p style="text-align: justify;"> CP2, CP3, STEM1, CPSAA5</p>
+<p style="text-align: justify;"> CCL3, CD2, CC1, CC4, CE1, CCEC1, CCEC2</p>
+<p style="text-align: justify;"><strong> Competencias específicas:</strong></p>
+<p style="text-align: justify;"> C.E. 1. Traducir y comprender textos latinos de dificultad creciente y justificar la traducción, identificando y analizando los aspectos básicos de la lengua latina y sus unidades lingüísticas y reflexionando sobre ellas mediante la comparación con las lenguas de enseñanza y con otras lenguas del repertorio individual del alumnado, para realizar una lectura comprensiva, directa y eficaz y una interpretación razonada de su contenido.</p>
+<p style="text-align: justify;"> C.E. 2. Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar a lo largo del tiempo, comparándolos con los de las lenguas de enseñanza y otras lenguas del repertorio individual del alumnado, para deducir el significado etimológico del léxico conocido y los significados de léxico nuevo o especializado.</p>
+<p style="text-align: justify;"> C.E. 5. Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para explicar el legado material e inmaterial latino como transmisor de conocimiento y fuente de inspiración de creaciones modernas y contemporáneas.</p>
+<p style="text-align: justify;"><strong> Saberes básicos:</strong></p>
+<p style="text-align: justify;"> Bloque A. El texto: comprensión y traducción</p>
+<p style="text-align: justify;"> Unidades lingüísticas de la lengua latina.</p>
+<p style="text-align: justify;">- Funciones y sintaxis de los casos.</p>
+<p style="text-align: justify;">- Flexión nominal y pronominal (sistema casual y declinaciones) y flexión verbal (el sistema de conjugaciones).</p>
+<p style="text-align: justify;">- Sintaxis oracional.</p>
+<p style="text-align: justify;">- Estructuras oracionales</p>
+<p style="text-align: justify;">- Formas nominales del verbo.</p>
+<p style="text-align: justify;">La traducción: técnicas, procesos y herramientas.</p>
+<p style="text-align: justify;">- El análisis morfosintáctico como herramienta de traducción.</p>
+<p style="text-align: justify;">- Herramientas de traducción: glosarios, diccionarios, atlas o correctores ortográficos en soporte analógico o digital, etc.</p>
+<p style="text-align: justify;">Bloque B. Plurilingüismo</p>
+<p style="text-align: justify;">- Influencia del latín en la evolución de las lenguas de enseñanza y del resto de lenguas que conforman el repertorio lingüístico individual del alumnado.</p>
+<p style="text-align: justify;">- Léxico: lexemas, sufijos y prefijos de origen latino presentes en el léxico de uso común y en el específico de las ciencias y la técnica; significado y definición de palabras de uso común en las lenguas de enseñanza a partir de sus étimos de origen latino; expresiones latinas integradas en las lenguas modernas y su empleo en diferentes tipos de textos (literarios, periodísticos, publicitarios).</p>
+<p style="text-align: justify;">- El latín como instrumento que permite un mejor conocimiento de las lenguas de estudio y un más fácil acercamiento a otras lenguas modernas, romances y no romances.</p>
+<p style="text-align: justify;"><strong> Criterios de evaluación relacionados con las competencias específicas:</strong></p>
+<p style="text-align: justify;"> 1.1. Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.</p>
+<p style="text-align: justify;"> 1.2. Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.</p>
+<p style="text-align: justify;"> 1.4. Realizar la lectura directa de textos latinos sencillos identificando las unidades lingüísticas básicas de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del latín.</p>
+<p style="text-align: justify;"> 2.1. Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.</p>
+<p style="text-align: justify;"> 2.3. Explicar, de manera guiada, la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen latino y utilizando de forma guiada estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio del alumnado.</p>
+<p style="text-align: justify;"> 5.2. Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad.</p>
+<p style="text-align: justify;"> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774008172331-75yff7e6k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong> Competencias clave (descriptores operativos/perfil de salida):</strong></p>\n<p style=\"text-align: justify;\"> CCL1, CCL2, CP2, STEM1, STEM2</p>\n<p style=\"text-align: justify;\"> CP2, CP3, STEM1, CPSAA5</p>\n<p style=\"text-align: justify;\"> CCL3, CD2, CC1, CC4, CE1, CCEC1, CCEC2</p>\n<p style=\"text-align: justify;\"><strong> Competencias específicas:</strong></p>\n<p style=\"text-align: justify;\"> C.E. 1. Traducir y comprender textos latinos de dificultad creciente y justificar la traducción, identificando y analizando los aspectos básicos de la lengua latina y sus unidades lingüísticas y reflexionando sobre ellas mediante la comparación con las lenguas de enseñanza y con otras lenguas del repertorio individual del alumnado, para realizar una lectura comprensiva, directa y eficaz y una interpretación razonada de su contenido.</p>\n<p style=\"text-align: justify;\"> C.E. 2. Distinguir los formantes latinos y explicar los cambios que hayan tenido lugar a lo largo del tiempo, comparándolos con los de las lenguas de enseñanza y otras lenguas del repertorio individual del alumnado, para deducir el significado etimológico del léxico conocido y los significados de léxico nuevo o especializado.</p>\n<p style=\"text-align: justify;\"> C.E. 5. Valorar críticamente el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, interesándose por su sostenibilidad y reconociéndolo como producto de la creación humana y como testimonio de la historia, para explicar el legado material e inmaterial latino como transmisor de conocimiento y fuente de inspiración de creaciones modernas y contemporáneas.</p>\n<p style=\"text-align: justify;\"><strong> Saberes básicos:</strong></p>\n<p style=\"text-align: justify;\"> Bloque A. El texto: comprensión y traducción</p>\n<p style=\"text-align: justify;\"> Unidades lingüísticas de la lengua latina.</p>\n<p style=\"text-align: justify;\">- Funciones y sintaxis de los casos.</p>\n<p style=\"text-align: justify;\">- Flexión nominal y pronominal (sistema casual y declinaciones) y flexión verbal (el sistema de conjugaciones).</p>\n<p style=\"text-align: justify;\">- Sintaxis oracional.</p>\n<p style=\"text-align: justify;\">- Estructuras oracionales</p>\n<p style=\"text-align: justify;\">- Formas nominales del verbo.</p>\n<p style=\"text-align: justify;\">La traducción: técnicas, procesos y herramientas.</p>\n<p style=\"text-align: justify;\">- El análisis morfosintáctico como herramienta de traducción.</p>\n<p style=\"text-align: justify;\">- Herramientas de traducción: glosarios, diccionarios, atlas o correctores ortográficos en soporte analógico o digital, etc.</p>\n<p style=\"text-align: justify;\">Bloque B. Plurilingüismo</p>\n<p style=\"text-align: justify;\">- Influencia del latín en la evolución de las lenguas de enseñanza y del resto de lenguas que conforman el repertorio lingüístico individual del alumnado.</p>\n<p style=\"text-align: justify;\">- Léxico: lexemas, sufijos y prefijos de origen latino presentes en el léxico de uso común y en el específico de las ciencias y la técnica; significado y definición de palabras de uso común en las lenguas de enseñanza a partir de sus étimos de origen latino; expresiones latinas integradas en las lenguas modernas y su empleo en diferentes tipos de textos (literarios, periodísticos, publicitarios).</p>\n<p style=\"text-align: justify;\">- El latín como instrumento que permite un mejor conocimiento de las lenguas de estudio y un más fácil acercamiento a otras lenguas modernas, romances y no romances.</p>\n<p style=\"text-align: justify;\"><strong> Criterios de evaluación relacionados con las competencias específicas:</strong></p>\n<p style=\"text-align: justify;\"> 1.1. Realizar traducciones directas o inversas de textos o fragmentos adaptados u originales, de dificultad adecuada y progresiva, con corrección ortográfica y expresiva, identificando y analizando unidades lingüísticas regulares de la lengua y apreciando variantes y coincidencias con otras lenguas conocidas.</p>\n<p style=\"text-align: justify;\"> 1.2. Seleccionar de manera progresivamente autónoma el significado apropiado de palabras polisémicas y justificar la decisión, teniendo en cuenta la información cotextual o contextual y utilizando herramientas de apoyo al proceso de traducción en distintos soportes, tales como listas de vocabulario, glosarios, diccionarios, mapas o atlas, correctores ortográficos, gramáticas y libros de estilo.</p>\n<p style=\"text-align: justify;\"> 1.4. Realizar la lectura directa de textos latinos sencillos identificando las unidades lingüísticas básicas de la lengua latina, comparándolas con las de las lenguas del repertorio lingüístico propio y asimilando los aspectos morfológicos, sintácticos y léxicos elementales del latín.</p>\n<p style=\"text-align: justify;\"> 2.1. Deducir el significado etimológico de un término de uso común e inferir el significado de términos de nueva aparición o procedentes de léxico especializado aplicando, de manera guiada, estrategias de reconocimiento de formantes latinos atendiendo a los cambios fonéticos, morfológicos o semánticos que hayan tenido lugar.</p>\n<p style=\"text-align: justify;\"> 2.3. Explicar, de manera guiada, la relación del latín con las lenguas modernas, analizando los elementos lingüísticos comunes de origen latino y utilizando de forma guiada estrategias y conocimientos de las lenguas y lenguajes que conforman el repertorio del alumnado.</p>\n<p style=\"text-align: justify;\"> 5.2. Investigar, de manera guiada, el patrimonio histórico, arqueológico, artístico y cultural heredado de la civilización latina, actuando de forma adecuada, empática y respetuosa e interesándose por los procesos de construcción, preservación, conservación y restauración y por aquellas actitudes cívicas que aseguran su sostenibilidad.</p>\n<p style=\"text-align: justify;\"> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1o6t7z-tylkdox6q</odePageId>
+  <odeParentPageId>page-mn1o6ssu-fgadjdcxu</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6t7z-tylkdox6q</odePageId>
+      <odeBlockId>block-1774028778834-q4gnfmnv8</odeBlockId>
+      <blockName>3. Metodologías activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6t7z-tylkdox6q</odePageId>
+          <odeBlockId>block-1774028778834-q4gnfmnv8</odeBlockId>
+          <odeIdeviceId>idevice-1774028778829-cv58qyn2p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>☐ Aprendizaje basado en el pensamiento</p>
+<p>☐ Aprendizaje basado en problemas</p>
+<p>☑ Aprendizaje basado en proyectos</p>
+<p>☐ Aprendizaje basado en retos</p>
+<p>☐Estaciones de aprendizaje</p>
+<p>☑Aprendizaje cooperativo</p>
+<p>☐ Pensamiento de diseño (Design Thinking)</p>
+<p>☐ Aprendizaje – servicio</p>
+<p>☐ Aprendizaje por contrato</p>
+<p>☐ eLearning</p>
+<p>☐ Visual Thinking</p>
+<p>☐ Clase invertida</p>
+<p>☑ Gamificación</p>
+<p>☐ Aprendizaje por descubrimiento</p>
+<p>☐ Pensamiento computacional</p>
+<p>☐ Técnicas y dinámicas de grupo</p>
+<p>☑ Explicación gran-grupo</p>
+<p>☐ Centros de interés</p>
+<p>☑   Talleres</p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774028778829-cv58qyn2p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>☐ Aprendizaje basado en el pensamiento</p>\n<p>☐ Aprendizaje basado en problemas</p>\n<p>☑ Aprendizaje basado en proyectos</p>\n<p>☐ Aprendizaje basado en retos</p>\n<p>☐Estaciones de aprendizaje</p>\n<p>☑Aprendizaje cooperativo</p>\n<p>☐ Pensamiento de diseño (Design Thinking)</p>\n<p>☐ Aprendizaje – servicio</p>\n<p>☐ Aprendizaje por contrato</p>\n<p>☐ eLearning</p>\n<p>☐ Visual Thinking</p>\n<p>☐ Clase invertida</p>\n<p>☑ Gamificación</p>\n<p>☐ Aprendizaje por descubrimiento</p>\n<p>☐ Pensamiento computacional</p>\n<p>☐ Técnicas y dinámicas de grupo</p>\n<p>☑ Explicación gran-grupo</p>\n<p>☐ Centros de interés</p>\n<p>☑   Talleres</p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1o6t80-jdn5sehpi</odePageId>
+  <odeParentPageId>page-mn1o6ssu-fgadjdcxu</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6t80-jdn5sehpi</odePageId>
+      <odeBlockId>block-1774027711593-cvoh72s4d</odeBlockId>
+      <blockName>4. Vinculación con los proyectos y programas del centro</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6t80-jdn5sehpi</odePageId>
+          <odeBlockId>block-1774027711593-cvoh72s4d</odeBlockId>
+          <odeIdeviceId>idevice-1774027711592-7rv2h4wz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> La presente situación de aprendizaje se vincula con distintos proyectos y programas del centro, especialmente con el Plan de Lectura, Escritura e Investigación (PLEI), al fomentar la comprensión y análisis de textos periodísticos; con el Proyecto Lingüístico de Centro, al desarrollar la competencia comunicativa y la reflexión sobre el léxico; y con el Proyecto TIC, mediante el uso crítico de fuentes digitales. Asimismo, puede integrarse en iniciativas relacionadas con la dimensión europea del centro, como Erasmus+, al poner en valor el legado común del latín, y con proyectos de educación en ciudadanía y pensamiento crítico, contribuyendo a la formación de un alumnado autónomo, informado y responsable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774027711592-7rv2h4wz4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> La presente situación de aprendizaje se vincula con distintos proyectos y programas del centro, especialmente con el Plan de Lectura, Escritura e Investigación (PLEI), al fomentar la comprensión y análisis de textos periodísticos; con el Proyecto Lingüístico de Centro, al desarrollar la competencia comunicativa y la reflexión sobre el léxico; y con el Proyecto TIC, mediante el uso crítico de fuentes digitales. Asimismo, puede integrarse en iniciativas relacionadas con la dimensión europea del centro, como Erasmus+, al poner en valor el legado común del latín, y con proyectos de educación en ciudadanía y pensamiento crítico, contribuyendo a la formación de un alumnado autónomo, informado y responsable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1o6t83-rduf8ybfw</odePageId>
+  <odeParentPageId>page-mn1o6ssu-fgadjdcxu</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6t83-rduf8ybfw</odePageId>
+      <odeBlockId>block-1774027514724-u7d3tzxm5</odeBlockId>
+      <blockName>5. Actividades complementarias y extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6t83-rduf8ybfw</odePageId>
+          <odeBlockId>block-1774027514724-u7d3tzxm5</odeBlockId>
+          <odeIdeviceId>idevice-1774027514719-8s3u7zf4a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong> </strong>Como actividad complementaria, se podría proponer la realización de un taller de análisis del lenguaje periodístico en colaboración con un medio de comunicación digital, en el que el alumnado identificase y analizase el uso de latinismos en noticias reales, con el fin de desarrollar su competencia lingüística, digital y su pensamiento crítico.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774027514719-8s3u7zf4a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong> </strong>Como actividad complementaria, se podría proponer la realización de un taller de análisis del lenguaje periodístico en colaboración con un medio de comunicación digital, en el que el alumnado identificase y analizase el uso de latinismos en noticias reales, con el fin de desarrollar su competencia lingüística, digital y su pensamiento crítico.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn1o6t85-murr7b9vw</odePageId>
+  <odeParentPageId>page-mn1o6ssu-fgadjdcxu</odeParentPageId>
+  <pageName>6. Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn1o6t85-murr7b9vw</odePageId>
+      <odeBlockId>block-1774096451958-saseammvi</odeBlockId>
+      <blockName>6. Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn1o6t85-murr7b9vw</odePageId>
+          <odeBlockId>block-1774096451958-saseammvi</odeBlockId>
+          <odeIdeviceId>idevice-1774096451955-ds6jlp1sx</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Del foro al periódico: latinismos en acción</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje para el estudio de los latinismos en la prensa digital</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Fernando Yenes Bonet</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
